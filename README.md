@@ -9,7 +9,7 @@ Feel free to poke around--this is where I build, break, & learn 😔.
 In 2026, I plan on expanding my technical skills with a large focus on clean code & thoughtful system design. 
 
 ## 🌱 January Favourites
-- System Engineering Mock Interviews
+- System Design Mock Interviews
 - Web Development + Frontend Development
   
 
