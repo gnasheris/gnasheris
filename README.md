@@ -10,8 +10,9 @@ In 2026, I plan on expanding my technical skills with a large focus on clean cod
 
 | January Favourites      | What I reach for |
 | ----------- | ----------- |
-| System Design Mock Interviews     | E2E Systems       |
-| Web Dev  |   Web Dev   | 
+| System Design (Learning)     |  Whiteboarding   |
+| Web Dev  |   React Frameworks   | 
+| AWS Cloud Infra  |   Python, Java  | 
 
 ## Tech Stack
 
