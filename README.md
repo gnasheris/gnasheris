@@ -1,4 +1,4 @@
-### Hey There 🪐
+# Hey There 🪐
 
 You found my Github... welcome welcome 👋 
 
@@ -8,16 +8,16 @@ Feel free to poke around--this is where I build, break, & learn 😔.
 
 In 2026, I plan on expanding my technical skills with a large focus on clean code & thoughtful system design. 
 
-🌱 January Favourites:
+##🌱 January Favourites:
 - System Engineering Mock Interviews
 - Web Development + Frontend Development
   
 
-What I reach for:
+##What I reach for:
 - E2E Systems
 
 
-Tech Stack
+##Tech Stack
 
 
 <!--
