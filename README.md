@@ -13,21 +13,21 @@ In 2026, I plan on expanding my technical skills with a large focus on clean cod
 | System Design (Learning)     |  Whiteboarding   |
 | Web Dev  |   React Frameworks   | 
 | AWS Cloud Infra  |   Python, Java  | 
+| Docker  |   FastAPI, PostgresSQL  | 
 
-## Tech Stack
 
+## @Nash % show tech stack
+```bash
+Category        Technologies
+-----------------------------------------------
+✓ Languages     Python, Java, TypeScript, JavaScript
+✓ Frontend      React.js, Next.js
+✓ Mobile        React Native
+✓ Styling       Tailwind CSS, CSS
+✓ Backend       Node.js, Express, NextJS
+✓ Database      MongoDB, PostgreSQL
+✓ Dev Tools     Git, GitHub, Docker
 
-<!--
-**gnasheris/gnasheris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------------------------
+✓ 6 of 6 stacks loaded successfully (100%)
+⚑ Render time: 6ms
