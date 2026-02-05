@@ -29,7 +29,7 @@ Feel free to poke around 🪼, this is where I build, break, & learn 😔.
   </tr>
 </table>
 
-## @Nash % show tech stack
+@Nash % show tech stack
 ```bash
 Category        Technologies
 -----------------------------------------------
