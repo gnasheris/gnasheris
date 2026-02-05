@@ -29,8 +29,8 @@ Feel free to poke around 🪼, this is where I build, break, & learn 😔.
   </tr>
 </table>
 
-@Nash % show tech stack
 ```bash
+@Nash % show tech stack
 Category        Technologies
 -----------------------------------------------
 ✓ Languages     Python, Java, TypeScript, JavaScript
