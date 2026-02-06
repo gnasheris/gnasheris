@@ -4,7 +4,7 @@
 
 I'm Nash (she/her), a final year CS Student @ Unimelb. 👩‍💻
 
-In 2026, I plan on expanding my 🧊 technical skills with a large focus on clean code 🚏 & thoughtful system design. 🏔️🚃
+In 2026, I plan on expanding my technical skills with a large focus on clean code 🚏 & thoughtful system design. 🏔️🚃
 
 Feel free to poke around 🪼, this is where I build, break, & learn 😔.
 
