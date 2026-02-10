@@ -22,7 +22,7 @@ Feel free to poke around 🪼, this is where I build, break, & learn 😔.
     </td>
     <td>
       - Whiteboarding <br>
-      - React Frameworks (right now: GSAP, Talwind CSS) <br>
+      - React Frameworks (right now: GSAP, Tailwind CSS) <br>
       - Python, Java <br>
       - FastAPI, PostgreSQL <br>
     </td>
